@@ -3,6 +3,8 @@
         "rootDir": "src/scripts",
         "outDir": "game/scripts",
     },
-
-    "exclude": ["./**/*.json"]
+    "exclude": [
+        "./**/*.json",
+        "./**/*.ts"
+    ]
 }
