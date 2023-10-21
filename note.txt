@@ -1,0 +1,5 @@
+useage:
+    1. change name in package.json
+    2. npm i
+    3. npm update
+    4. npm start

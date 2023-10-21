@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "rootDir": "src/panorama/images",
+        "outDir": "content/panorama/images/custom_game",
+    },
+
+    "exclude": ["./**/*.json"]
+}

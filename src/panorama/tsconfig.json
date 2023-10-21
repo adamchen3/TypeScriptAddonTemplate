@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "rootDir": ".",
+        "rootDir": "./scripts",
         "outDir": "../../content/panorama/scripts/custom_game",
         "target": "es2017",
         "lib": ["es2017"],
